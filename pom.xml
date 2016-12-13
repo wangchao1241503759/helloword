@@ -7,8 +7,7 @@
 	<packaging>pom</packaging>
 	<modules>是打发斯蒂芬
 		<module>spiderman-core</module>
-		<module>spiderman-plugin</module>
-		<module>spiderman-sample</module>
+		<module>spiderman-plugin</module>是打发第三方
 		<module>spiderman-web</module>
 		<module>spiderman-webapp</module>
 	</modules>
